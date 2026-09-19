@@ -1,6 +1,6 @@
 # Password Generator
 
-A clean and modern password generator built in Python using **Tkinter**.
+A basic graphical password generator built in Python using **Tkinter**.
 
 ---
 
